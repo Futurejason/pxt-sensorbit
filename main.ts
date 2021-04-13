@@ -382,13 +382,8 @@ namespace sensors {
             default: return " "
         }
     }
+
     
-
-
-
-
-
-
 
 
 
