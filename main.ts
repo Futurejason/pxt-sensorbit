@@ -382,6 +382,17 @@ namespace sensors {
             default: return " "
         }
     }
+    
+
+
+
+
+
+
+
+
+
+
 
     //% blockId=setled block="set led ：%lpin|status %lstatus"   group="LED灯"
     //% weight=70
