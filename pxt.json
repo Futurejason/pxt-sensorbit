@@ -5,7 +5,8 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:microsoft/pxt-neopixel/tree/v0.7.3"
+        "neopixel": "github:microsoft/pxt-neopixel/tree/v0.7.3",
+        "OLED12864_I2C": "github:Futurejason/pxt-sensorbit658"
     },
     "files": [
         "README.md",
